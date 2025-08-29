@@ -5,7 +5,7 @@ Incluye interfaz gráfica para ingresar el valor, elegir el tamaño del QR y gua
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Ingresar texto o URL para codificar.
 - Seleccionar el tamaño del QR (100px – 1200px).
 - Vista previa del código QR en pantalla (con scroll si es muy grande).
@@ -14,7 +14,7 @@ Incluye interfaz gráfica para ingresar el valor, elegir el tamaño del QR y gua
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Java 21** (probado en JDK 21 y 22).
 - **JavaFX 22.0.2**  
   - `javafx-controls`  
