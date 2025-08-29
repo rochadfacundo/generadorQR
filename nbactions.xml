@@ -1,0 +1,19 @@
+<actions>
+    <!-- Acción para RUN (F6) -->
+    <action>
+        <actionName>run</actionName>
+        <goals>
+            <goal>javafx:run</goal>
+        </goals>
+    </action>
+
+    <!-- Acción para DEBUG (Ctrl+F5) -->
+    <action>
+        <actionName>debug</actionName>
+        <goals>
+            <goal>javafx:run</goal>
+        </goals>
+    </action>
+</actions>
+
+

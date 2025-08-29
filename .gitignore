@@ -1,0 +1,49 @@
+# -------------------------------------
+# Archivos de compilación
+# -------------------------------------
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+# -------------------------------------
+# Archivos temporales
+# -------------------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# -------------------------------------
+# Configuración específica de NetBeans
+# -------------------------------------
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# -------------------------------------
+# Archivos de Maven
+# -------------------------------------
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# -------------------------------------
+# Archivos de sistema
+# -------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------------------
+# Archivos de IDEs comunes
+# -------------------------------------
+.idea/
+*.iml
+.vscode/
+*.class
